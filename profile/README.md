@@ -149,7 +149,6 @@
       <th align="center" width='200px'>조희은</th>
       <th align="center" width='200px'>최현정</th>
       <th align="center" width='200px'>김예빈</th>
-      <th align="center" width='200px'>이승환</th>
     </tr>
     <tr>
       <td align='center'><img width="100" alt="image" src="">
@@ -157,20 +156,17 @@
       <td align="center"><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/cfd48573-d179-46a8-8647-6cddcf9ce71b"></td>
       <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/9a9bc664-2e25-4992-a1df-62371430bc4c">
 </td>
-      <td align='center'><img width="100" alt="image" src="https://github.com/2023-Summer-Bootcamp-TeamD/.github/assets/70912819/db5d3104-b617-4fc8-b7ed-42b9c21fe698">
-</td>
     </tr>
     <tr>
       <td>Team Leader <br />Backend <br />DevOps</td>
       <td>Backend <br />DevOps</td>
       <td>Frontend</td>
-      <td>Frontend</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tjrmswo">@tjrmswo</a></td>
+      <td><a href="https://github.com/kubit2">@kubit2</a></td>
       <td><a href="https://github.com/ppinkypeach">@ppinkypeach</a></td>
       <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
-      <td><a href="https://github.com/Leeseunghwan7305">@Leeseunghwan7305</a></td>
+
     </tr>
   </tbody>
 </table>
