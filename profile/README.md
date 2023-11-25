@@ -34,7 +34,7 @@
 
 ## ERD
 <p align="center">
-  <img src="">
+  <img src="https://github.com/CarrotAuction/.github/assets/70912819/233961d3-98ef-473f-a9f6-5527ccc35db2">
 </p>
 
 
@@ -166,7 +166,6 @@
       <td><a href="https://github.com/kubit2">@kubit2</a></td>
       <td><a href="https://github.com/ppinkypeach">@ppinkypeach</a></td>
       <td><a href="https://github.com/Kimyebin00">@Kimyebin00</a></td>
-
     </tr>
   </tbody>
 </table>
