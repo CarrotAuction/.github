@@ -7,9 +7,6 @@
 경매에 참여해본 적 있으신가요? 일반적인 온라인 경매는 복잡하고 시간이 많이 소요되는 경우가 많습니다. 그래서 저희 CarrotAuction은 이러한 불편함을 해소하고자 합니다. 이 플랫폼은 사용자가 빠르고 간편하게 물건을 경매에 부치고, 다른 사용자들이 실시간으로 입찰에 참여할 수 있는 새로운 형태의 온라인 경매 시스템을 제공합니다.
 
 <br/>
-![vllo 10](https://github.com/CarrotAuction/.github/assets/70912819/198b1e2b-ee5e-4e8c-ba22-99ad1b19f4c6)![vllo 13](https://github.com/CarrotAuction/.github/assets/70912819/cb173ae4-bf8f-4b21-bbad-3267918c8e51)
-![vllo 14](https://github.com/CarrotAuction/.github/assets/70912819/99a01b27-d205-4c52-9308-ce6f8fe8da07)
-
 
 ## Demo
 <div>
